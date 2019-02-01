@@ -61,6 +61,9 @@ curl -X POST \
                 ]
 }'
 ```
+for POSTMAN : 
+![GitHub Logo](Postman.png)
+
 the application will return as a responce this json data :
 
 ```@json
