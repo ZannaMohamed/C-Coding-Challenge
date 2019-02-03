@@ -11,4 +11,3 @@ set(COMMON_SRC
 # Specifiy target
 # ----------------------------------------------------------------------------- 
 add_library(lCommon STATIC ${COMMON_SRC} )
-target_link_libraries(lCommon  )
